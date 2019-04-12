@@ -31,4 +31,11 @@ public class HappyPet {
 	// 4. Create methods to handle each of your user selections.
 	//    Each method should create a pop-up with the pet's response (eg. cat might purr when pet), 
 	//    and INCREMENT the pet's happiness Level.
+	
+	void cuddle () 
+	{
+		JOptionPane.showMessageDialog(null, "animals lies down on your lap");
+	}
+	
+	
 }
